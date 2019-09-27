@@ -22,5 +22,5 @@
 
 ## Run
 
-yarn
+yarn &&
 yarn start
